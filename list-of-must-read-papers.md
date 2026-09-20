@@ -1,7 +1,7 @@
 ---
 title: "List of must read papers"
 author: "chudur-budur"
-bibliography. references.bib
+bibliography: references.bib
 link-citations: true
 ---
 
